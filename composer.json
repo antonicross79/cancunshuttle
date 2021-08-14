@@ -1,0 +1,5 @@
+{
+    "require": {
+        "mike182uk/paypal-ipn-listener": "^9.0"
+    }
+}

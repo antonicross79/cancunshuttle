@@ -1,0 +1,27 @@
+User-Agent: *
+
+Disallow: /panelaccesso
+Disallow: /css
+Disallow: /images
+Disallow: /js
+
+User-Agent: Googlebot
+Allow: /
+
+
+Disallow: 
+
+User-agent: SurveyBot
+Disallow: /
+
+User-agent: WebsiteWiki
+Disallow: /
+
+User-agent: ShopWiki
+Disallow: /
+
+User-agent: Jakarta Commons-HttpClient
+Disallow: /
+
+User-Agent: AboutUsBot 
+Disallow: /

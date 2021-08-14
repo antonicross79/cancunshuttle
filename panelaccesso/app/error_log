@@ -1,0 +1,10 @@
+[21-Jul-2021 21:13:52 UTC] PHP Notice:  Undefined index: usuario_p in /home/canczdhg/public_html/accesso/app/ubicaciones.php on line 86
+[21-Jul-2021 21:14:07 UTC] PHP Notice:  Undefined index: permisos in /home/canczdhg/public_html/accesso/app/tarifas.php on line 27
+[21-Jul-2021 21:14:07 UTC] PHP Notice:  Undefined index: usuario_p in /home/canczdhg/public_html/accesso/app/tarifas.php on line 88
+[21-Jul-2021 21:14:07 UTC] PHP Notice:  Undefined index: usuario_p in /home/canczdhg/public_html/accesso/app/menu.php on line 83
+[21-Jul-2021 21:14:07 UTC] PHP Notice:  Undefined index: permisos in /home/canczdhg/public_html/accesso/app/menu.php on line 103
+[21-Jul-2021 21:14:07 UTC] PHP Notice:  Undefined index: permisos in /home/canczdhg/public_html/accesso/app/menu.php on line 122
+[21-Jul-2021 21:39:53 UTC] PHP Notice:  Undefined index: usuario_p in /home/canczdhg/public_html/accesso/app/configuraciones.php on line 96
+[21-Jul-2021 21:40:06 UTC] PHP Notice:  Undefined index: usuario_p in /home/canczdhg/public_html/accesso/app/configuraciones.php on line 96
+[29-Jul-2021 18:35:30 UTC] PHP Notice:  Undefined index: usuario_p in /home/canczdhg/public_html/accesso/app/configuraciones.php on line 96
+[30-Jul-2021 23:12:59 UTC] PHP Notice:  Undefined index: usuario_p in /home/canczdhg/public_html/accesso/app/configuraciones.php on line 96

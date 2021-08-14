@@ -1,0 +1,14 @@
+[30-Jul-2021 19:48:31 UTC] PHP Warning:  require_once(../accesso/db/conexion.php): failed to open stream: No such file or directory in /home/canczdhg/public_html/es/stripe/charge.php on line 4
+[30-Jul-2021 19:48:31 UTC] PHP Fatal error:  require_once(): Failed opening required '../accesso/db/conexion.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/canczdhg/public_html/es/stripe/charge.php on line 4
+[30-Jul-2021 19:48:41 UTC] PHP Warning:  require_once(../accesso/db/conexion.php): failed to open stream: No such file or directory in /home/canczdhg/public_html/es/stripe/charge.php on line 4
+[30-Jul-2021 19:48:41 UTC] PHP Fatal error:  require_once(): Failed opening required '../accesso/db/conexion.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/canczdhg/public_html/es/stripe/charge.php on line 4
+[30-Jul-2021 21:00:40 UTC] PHP Warning:  require_once(../accesso/db/conexion.php): failed to open stream: No such file or directory in /home/canczdhg/public_html/es/stripe/charge.php on line 4
+[30-Jul-2021 21:00:40 UTC] PHP Fatal error:  require_once(): Failed opening required '../accesso/db/conexion.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/canczdhg/public_html/es/stripe/charge.php on line 4
+[30-Jul-2021 21:14:19 UTC] PHP Notice:  Undefined variable: transfer_type in /home/canczdhg/public_html/es/stripe/charge.php on line 67
+[30-Jul-2021 21:14:19 UTC] PHP Notice:  Undefined variable: LOG_STRING in /home/canczdhg/public_html/es/stripe/charge.php on line 97
+[30-Jul-2021 21:14:19 UTC] PHP Notice:  Undefined variable: contenido_correo in /home/canczdhg/public_html/es/stripe/charge.php on line 100
+[30-Jul-2021 21:35:51 UTC] PHP Notice:  Undefined variable: transfer_type in /home/canczdhg/public_html/es/stripe/charge.php on line 67
+[30-Jul-2021 21:35:51 UTC] PHP Notice:  Undefined variable: LOG_STRING in /home/canczdhg/public_html/es/stripe/charge.php on line 97
+[30-Jul-2021 21:35:51 UTC] PHP Notice:  Undefined variable: contenido_correo in /home/canczdhg/public_html/es/stripe/charge.php on line 100
+[03-Aug-2021 03:29:27 UTC] PHP Warning:  require_once(../../accesso/db/conexion.php): failed to open stream: No such file or directory in /home/canczdhg/public_html/es/stripe/charge.php on line 3
+[03-Aug-2021 03:29:27 UTC] PHP Fatal error:  require_once(): Failed opening required '../../accesso/db/conexion.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/canczdhg/public_html/es/stripe/charge.php on line 3

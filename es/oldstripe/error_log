@@ -1,0 +1,12 @@
+[29-Jul-2021 18:11:09 UTC] PHP Warning:  require_once(../accesso/db/conexion.php): failed to open stream: No such file or directory in /home/canczdhg/public_html/es/stripe/charge.php on line 4
+[29-Jul-2021 18:11:09 UTC] PHP Fatal error:  require_once(): Failed opening required '../accesso/db/conexion.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/canczdhg/public_html/es/stripe/charge.php on line 4
+[29-Jul-2021 18:11:19 UTC] PHP Warning:  require_once(../accesso/db/conexion.php): failed to open stream: No such file or directory in /home/canczdhg/public_html/es/stripe/charge.php on line 4
+[29-Jul-2021 18:11:19 UTC] PHP Fatal error:  require_once(): Failed opening required '../accesso/db/conexion.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/canczdhg/public_html/es/stripe/charge.php on line 4
+[29-Jul-2021 18:11:27 UTC] PHP Warning:  require_once(../accesso/db/conexion.php): failed to open stream: No such file or directory in /home/canczdhg/public_html/es/stripe/charge.php on line 4
+[29-Jul-2021 18:11:27 UTC] PHP Fatal error:  require_once(): Failed opening required '../accesso/db/conexion.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/canczdhg/public_html/es/stripe/charge.php on line 4
+[29-Jul-2021 18:11:45 UTC] PHP Warning:  require_once(../accesso/db/conexion.php): failed to open stream: No such file or directory in /home/canczdhg/public_html/es/stripe/charge.php on line 4
+[29-Jul-2021 18:11:45 UTC] PHP Fatal error:  require_once(): Failed opening required '../accesso/db/conexion.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/canczdhg/public_html/es/stripe/charge.php on line 4
+[29-Jul-2021 18:37:55 UTC] PHP Warning:  require_once(../accesso/db/conexion.php): failed to open stream: No such file or directory in /home/canczdhg/public_html/es/stripe/charge.php on line 4
+[29-Jul-2021 18:37:55 UTC] PHP Fatal error:  require_once(): Failed opening required '../accesso/db/conexion.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/canczdhg/public_html/es/stripe/charge.php on line 4
+[30-Jul-2021 19:41:44 UTC] PHP Warning:  require_once(../accesso/db/conexion.php): failed to open stream: No such file or directory in /home/canczdhg/public_html/es/stripe/charge.php on line 4
+[30-Jul-2021 19:41:44 UTC] PHP Fatal error:  require_once(): Failed opening required '../accesso/db/conexion.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/canczdhg/public_html/es/stripe/charge.php on line 4

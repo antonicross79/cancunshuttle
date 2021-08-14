@@ -1,0 +1,55 @@
+array(26) {
+  ["url"]=>
+  string(47) "https://ipnpb.sandbox.paypal.com/cgi-bin/webscr"
+  ["content_type"]=>
+  string(24) "text/html; charset=UTF-8"
+  ["http_code"]=>
+  int(200)
+  ["header_size"]=>
+  int(1849)
+  ["request_size"]=>
+  int(1300)
+  ["filetime"]=>
+  int(-1)
+  ["ssl_verify_result"]=>
+  int(0)
+  ["redirect_count"]=>
+  int(0)
+  ["total_time"]=>
+  float(0.952066)
+  ["namelookup_time"]=>
+  float(0.0779)
+  ["connect_time"]=>
+  float(0.093116)
+  ["pretransfer_time"]=>
+  float(0.127564)
+  ["size_upload"]=>
+  float(1091)
+  ["size_download"]=>
+  float(8)
+  ["speed_download"]=>
+  float(8)
+  ["speed_upload"]=>
+  float(1146)
+  ["download_content_length"]=>
+  float(8)
+  ["upload_content_length"]=>
+  float(1091)
+  ["starttransfer_time"]=>
+  float(0.951965)
+  ["redirect_time"]=>
+  float(0)
+  ["redirect_url"]=>
+  string(0) ""
+  ["primary_ip"]=>
+  string(14) "151.101.129.21"
+  ["certinfo"]=>
+  array(0) {
+  }
+  ["primary_port"]=>
+  int(443)
+  ["local_ip"]=>
+  string(14) "192.64.117.193"
+  ["local_port"]=>
+  int(55804)
+}

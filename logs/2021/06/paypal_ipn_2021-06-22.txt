@@ -1,0 +1,37 @@
+paypal_ipn_status = RECEIVED FROM LIVE WHILE SANDBOXED
+paypal_ipn_date = 2021-06-22 13:20:01 PDT
+mc_gross = 375.30
+protection_eligibility = Eligible
+address_status = unconfirmed
+payer_id = AFP5XNZGB8LKQ
+address_street = BLV KUKULKAN
+Benito Juares
+payment_date = 13:19:47 Jun 22, 2021 PDT
+payment_status = Completed
+charset = UTF-8
+address_zip = 77500
+first_name = Andres
+mc_fee = 17.54
+address_country_code = MX
+address_name = Andres Maurette Jimenez
+notify_version = 3.9
+payer_status = unverified
+business = antonicross@gmail.com
+address_country = Mexico
+address_city = cancun
+verify_sign = A.doWNm7TzJfJZsKRHwVIeWY7URsA21MrxQ4ulQW.aOaqhbE5Ybkgim3
+payer_email = a.m.estudio@hotmail.com
+txn_id = 3NX14136YU168870N
+payment_type = instant
+last_name = Maurette Jimenez
+address_state = Quintana Roo
+receiver_email = antonicross@gmail.com
+payment_fee = 17.54
+receiver_id = 56HRUELZSSZYQ
+txn_type = send_money
+mc_currency = USD
+residence_country = MX
+transaction_subject = 
+payment_gross = 375.30
+ipn_track_id = c73b7e081b1b2
+

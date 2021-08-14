@@ -1,0 +1,27 @@
+paypal_ipn_status = VERIFICATION FAILED
+paypal_ipn_date = 2021-07-16 02:54:46 PDT
+transaction_subject = 
+txn_type = send_money
+payment_date = 02:54:39 Jul 16, 2021 PDT
+last_name = Cosco
+residence_country = ES
+payment_gross = 20.38
+mc_currency = USD
+business = bronstein.abraham@gmail.com
+payment_type = instant
+protection_eligibility = Ineligible
+verify_sign = AF95LynhZXy0hsa6zhCpnH0rQ1fQAKQpKJNB4FhOcgRQUehHdOPYYjiU
+payer_status = verified
+payer_email = erasmus-thefilm@erasmus-thefilm.com
+txn_id = 12X28687SB004502V
+receiver_email = bronstein.abraham@gmail.com
+first_name = Pablo
+payer_id = TFRNB2X95WRGA
+receiver_id = 4LLQ2T2XL7QQ6
+memo = migracion web
+payment_status = Completed
+mc_gross = 20.38
+charset = windows-1252
+notify_version = 3.9
+ipn_track_id = bca65af2a9288
+

@@ -1,0 +1,27 @@
+paypal_ipn_status = RECEIVED FROM LIVE WHILE SANDBOXED
+paypal_ipn_date = 2021-03-23 17:00:50 PDT
+transaction_subject = 
+txn_type = send_money
+payment_date = 17:00:39 Mar 23, 2021 PDT
+last_name = Gröner
+residence_country = US
+payment_gross = 
+mc_currency = MXN
+business = antonicross@gmail.com
+payment_type = instant
+protection_eligibility = Ineligible
+verify_sign = AkZT2pTlm1a47L6zRc9HU86VQxi0AYthjmHDjNOz.XU.XQy6wd0xcRJC
+payer_status = verified
+payer_email = anneliese.groener@1und1.de
+txn_id = 2D307090AB957041F
+receiver_email = antonicross@gmail.com
+first_name = Anneliese
+payer_id = MSVMAQN5J7MHS
+receiver_id = 56HRUELZSSZYQ
+payer_business_name = 1&1 IONOS Inc.
+payment_status = Completed
+mc_gross = 150.00
+charset = UTF-8
+notify_version = 3.9
+ipn_track_id = 7aa5918921129
+
