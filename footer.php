@@ -73,7 +73,7 @@
 		<div><a href="http://www.authorizeddir.com/">AuthorizedDir.com</a></div>
 		</div><a href="https://www.blackandbluedirectory.com/">Black and Blue Directory.com</a>
 		<div><a href="http://www.propellerdir.com/">PropellerDir.com</a></div>
-		<div> <a href="https://www.blackandbluedirectory.com/">Black and Blue Directory.com</a></div>
+		<div><a href="https://www.blackandbluedirectory.com/">Black and Blue Directory.com</a></div>
 		
 		
 
