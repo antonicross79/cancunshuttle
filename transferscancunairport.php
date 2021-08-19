@@ -8,7 +8,7 @@
 	
 	<meta name="author" content="bytedex.com">
 	
-	<title>Transfer cancun airport | CancunShuttleAirport</title>
+	<title>Transfers cancun airport| CancunShuttleAirport</title>
     <meta name="description" content=" We have more than 20 years of transfers cancun airport service providing transportation services from Cancun Airport to any hotel or place in Cancun, Riviera Maya and Tulum.">
     
 	
@@ -82,7 +82,7 @@
 				<!--- Content -->
 				<div class="content three-fourth textongrey">
 				    <!-- <h2>About us</h2> --><br>
-				    		<img src="../images/taxi_aeropuerto_cancun.jpg" alt="shuttle Aeropuerto Cancun" width="850" heigth="700"> <p><br></p>
+				    		<img src="../images/taxi_aeropuerto_cancun.jpg" alt="transfer cancun airport" width="850" heigth="700"> <p><br></p>
 				    				    
 					<h1>Transfer cancun airport <span>Service 24/7</span></h1><br>
 					<p class="lead">We have more than 20 years of Transfers cancun airport service providing transportation services from Cancun Airport to any hotel or place in Cancun, Riviera Maya and Tulum</p>.
