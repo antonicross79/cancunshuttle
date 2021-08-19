@@ -69,7 +69,7 @@
 					<nav role="navigation" class="breadcrumbs">
 						<ul>
 							<li><a href="index.php" title="Home">Home</a></li>
-							<li>Cancun airport shuttle</li>
+							<li>cancun airport shuttle</li>
 						</ul>
 					</nav>
 				</div>
@@ -82,9 +82,9 @@
 				<!--- Content -->
 				<div class="content three-fourth textongrey">
 				    <!-- <h2>About us</h2> --><br>
-				    		<img src="../images/taxi_aeropuerto_cancun.jpg" alt="transfer cancun airport" width="850" heigth="700"> <p><br></p>
+				    		<img src="../images/taxi_aeropuerto_cancun.jpg" alt="cancun airport shuttle" width="850" heigth="700"> <p><br></p>
 				    				    
-					<h1>Cancun airport shuttle <span>Service 24/7</span></h1><br>
+					<h1>cancun airport shuttle <span>Service 24/7</span></h1><br>
 					<p class="lead">We have more than 20 years of Cancun airport shuttle Transfers service providing transportation services from Cancun Airport to any hotel or place in Cancun, Riviera Maya and Tulum</p>.
                                      <a href="index.php">BOOK NOW </a>
                                      
