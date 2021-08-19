@@ -361,7 +361,7 @@
 				
 				    
                    	    <center><h3>Taxi airport - Tulum</h3></center>
-                    <p><img src="/images/camioneta2.jpeg" alt="taxi airport tulum" width="350" higth="350" /> Airport - Tulum <b>one away </b>for up to 1-6 passengers <b> $138,00 MXN</b> <a href = "https://cancunshuttleairport/#uno"><img src="/images/boton.png" alt="taxi airport tulum" width="150" higth="60" /></a></P>
+                    <p><img src="/images/camioneta2.jpeg" alt="taxi airport tulum" width="350" higth="350" /> Airport - Tulum <b>one away </b>for up to 1-6 passengers <b> $138,00 USD</b> <a href = "https://cancunshuttleairport/#uno"><img src="/images/boton.png" alt="taxi airport tulum" width="150" higth="60" /></a></P>
 				    </div>
 				    
 				
