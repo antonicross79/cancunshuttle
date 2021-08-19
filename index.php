@@ -45,6 +45,11 @@
 	<meta name="revisit-after" content="1 days"/>
 	
 	<meta name="author" content="bytedex.com">
+
+   <!---Este es el link de conexion de pinterest-->
+	<meta name="p:domain_verify" content="3663ea1d28e06e36f8be2af599a3e8ad"/>
+
+	<!---fin de pinterest-->
 	
 	<title>cancun shuttle airport - taxi airport cancun and shuttle cancun</title>
     <meta name="description" content="cancun shuttle airport.Transfer Cancun Aeropuerto and Playa del Carmen Transfer,Tulum and Riviera Maya.We have taxi airport cancun and Shuttle Cancun.Realizamos traslados de Aeropuerto Cancun, Zona hotelera,Riviera Maya, Tulum y más."/>
@@ -99,6 +104,8 @@
 </script>
 
 <!-- fin - Google Analytics -->
+
+
 
   </head>
   
