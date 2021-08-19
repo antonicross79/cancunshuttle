@@ -343,8 +343,27 @@
 				
 				<p class="wow fadeInRight">Welcome to Cancun Airport Transportation. At Cancun Airport Transportation we have more than 20 years of experience providing Transportation from Cancun Airport, and Tours in Cancun and Riviera Maya. We know what you need.
                     We provide private, safe and reliable Transportation from the Cancun Airport to your hotel or lodging in the Cancun Hotel Zone, Downtown Cancun, Playa Mujeres, Puerto Morelos, Playa del Carmen, Puerto Aventuras, Akumal, Tulum or any part of the Riviera Maya.</p>
-                    <h2>Taxi airport cancun and shuttle cancun</h2>
-                    <p>we have private service, special service, comfortable and safe trips in Cancun, Playa del Carmen, Tulum and Riviera Maya.</p>
+                    <div> 
+                   	    <center><h3>The best prices for airport Transfers - Cancun, Riviera maya, Playa mujeres, Tulum</h3> 
+                   	        <p><img src="/images/calidad.png" alt="transfer cancun riviera maya" width="200" higth="200" /></p>
+                   	    
+                   	    </center>
+                   	    
+                   	    
+                   	    <center><h3>Taxi airport - Cancun Hotel Zone </h3></center>
+                    <p><img src="/images/camioneta1.jpeg" alt="Taxi airport cancun hotel zone" width="350" higth="350" /> Airport -Cancun Hotel Zone <b>Round trip</b> for up to 1-6 passengers <b> $800,00 MXN</b> <a href = "https://taxiaeropuertodecancun.com/#uno"><img src="/images/boton.png" alt="" width="150" higth="60" /></a></P>
+				    
+			
+				
+                   	    <center><h3>Taxi airport - Riviera Maya </h3></center>
+                    <p><img src="/images/camioneta3.jpeg" alt="Taxi airport riviera maya" width="350" higth="350" /> Airport - Riviera Maya <b>One away </b>for up to 1-16 passengers <b> $1500,00 MXN</b> <a href = "https://taxiaeropuertodecancun.com/#uno"><img src="/images/boton.png" alt="" width="150" higth="60" /></a></P>
+				    
+				
+				    
+                   	    <center><h3>Taxi airport - Tulum</h3></center>
+                    <p><img src="/images/camioneta2.jpeg" alt="taxi airport tulum" width="350" higth="350" /> Airport - Tulum <b>one away </b>for up to 1-6 passengers <b> $2200,00 MXN</b> <a href = "https://taxiaeropuertodecancun.com/#uno"><img src="/images/boton.png" alt="" width="150" higth="60" /></a></P>
+				    </div>
+				    
 				
 			</div>
 			
