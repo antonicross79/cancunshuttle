@@ -178,7 +178,7 @@
     </div>
 		
 		<!-- //Intro -->
-		<div class="container-fluid" style="background: #4bb5c1;">
+		<div class="container-fluid" style="background: #4bb5c1;" id="uno">
 		<form action="search-results.php" method="post">
 		<div class="form-row p-5" style="border: 1px solid #00000059;border-radius: 20px;box-shadow: 5px 5px 10px 2px #00000042;background: white;">
 
@@ -351,17 +351,17 @@
                    	    
                    	    
                    	    <center><h3>Taxi airport - Cancun Hotel Zone </h3></center>
-                    <p><img src="/images/camioneta1.jpeg" alt="Taxi airport cancun hotel zone" width="350" higth="350" /> Airport -Cancun Hotel Zone <b>Round trip</b> for up to 1-6 passengers <b> $800,00 MXN</b> <a href = "https://taxiaeropuertodecancun.com/#uno"><img src="/images/boton.png" alt="" width="150" higth="60" /></a></P>
+                    <p><img src="/images/camioneta1.jpeg" alt="Taxi airport cancun hotel zone" width="350" higth="350" /> Airport -Cancun Hotel Zone <b>Round trip</b> for up to 1-6 passengers <b> $45,00 USD</b> <a href = "https://cancunshuttleairport.com/#uno"><img src="/images/boton.png" alt="taxi airport cancun" width="150" higth="60" /></a></P>
 				    
 			
 				
                    	    <center><h3>Taxi airport - Riviera Maya </h3></center>
-                    <p><img src="/images/camioneta3.jpeg" alt="Taxi airport riviera maya" width="350" higth="350" /> Airport - Riviera Maya <b>One away </b>for up to 1-16 passengers <b> $1500,00 MXN</b> <a href = "https://taxiaeropuertodecancun.com/#uno"><img src="/images/boton.png" alt="" width="150" higth="60" /></a></P>
+                    <p><img src="/images/camioneta3.jpeg" alt="Taxi airport riviera maya" width="350" higth="350" /> Airport - Riviera Maya <b>One away </b>for up to 1-16 passengers <b> $95,00 USD</b> <a href = "https://cancunshuttleairport.com/#uno"><img src="/images/boton.png" alt="taxi airport riviera maya" width="150" higth="60" /></a></P>
 				    
 				
 				    
                    	    <center><h3>Taxi airport - Tulum</h3></center>
-                    <p><img src="/images/camioneta2.jpeg" alt="taxi airport tulum" width="350" higth="350" /> Airport - Tulum <b>one away </b>for up to 1-6 passengers <b> $2200,00 MXN</b> <a href = "https://taxiaeropuertodecancun.com/#uno"><img src="/images/boton.png" alt="" width="150" higth="60" /></a></P>
+                    <p><img src="/images/camioneta2.jpeg" alt="taxi airport tulum" width="350" higth="350" /> Airport - Tulum <b>one away </b>for up to 1-6 passengers <b> $138,00 MXN</b> <a href = "https://cancunshuttleairport/#uno"><img src="/images/boton.png" alt="taxi airport tulum" width="150" higth="60" /></a></P>
 				    </div>
 				    
 				
