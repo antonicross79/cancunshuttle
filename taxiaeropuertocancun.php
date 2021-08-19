@@ -8,8 +8,8 @@
 	
 	<meta name="author" content="bytedex.com">
 	
-	<title>Transfer cancun aeropuerto | CancunShuttleAirport</title>
-    <meta name="description" content=" We have more than 20 years of Transfer aeropuerto Cancun service providing transportation services from Cancun Airport to any hotel or place in Cancun, Riviera Maya and Tulum.">
+	<title>Taxi aeropuerto Cancun | CancunShuttleAirport</title>
+    <meta name="description" content=" We have more than 20 years of Taxi aeropuerto Cancun service providing transportation services from Cancun Airport to any hotel or place in Cancun, Riviera Maya and Tulum.">
     
 	
 		<link rel="stylesheet" href="css/theme-lblue.css" />
@@ -65,11 +65,11 @@
 		<header class="site-title color">
 			<div class="wrap">
 				<div class="container">
-					<h1>Transfer cancun aeropuerto</h1>
+					<h1>Taxi aeropuerto Cancun</h1>
 					<nav role="navigation" class="breadcrumbs">
 						<ul>
 							<li><a href="index.php" title="Home">Home</a></li>
-							<li>Transfer cancun aeropuerto</li>
+							<li>Taxi aeropuerto Cancun</li>
 						</ul>
 					</nav>
 				</div>
@@ -82,10 +82,10 @@
 				<!--- Content -->
 				<div class="content three-fourth textongrey">
 				    <!-- <h2>About us</h2> --><br>
-				    		<img src="../images/taxi_aeropuerto_cancun.jpg" alt="shuttle Aeropuerto Cancun" width="850" heigth="700"> <p><br></p>
+				    		<img src="../images/taxi_aeropuerto_cancun.jpg" alt="taxi Aeropuerto cancun" width="850" heigth="700"> <p><br></p>
 				    				    
-					<h1>Transfer cancun aeropuerto <span>Service 24/7</span></h1><br>
-					<p class="lead">We have more than 20 years of Transfer cancun aeropuerto service providing transportation services from Cancun Airport to any hotel or place in Cancun, Riviera Maya and Tulum</p>.
+					<h1>Taxi aeropuerto Cancun <span>Service 24/7</span></h1><br>
+					<p class="lead">We have more than 20 years of Taxi aeropuerto Transfers service providing transportation services from Cancun Airport to any hotel or place in Cancun, Riviera Maya and Tulum</p>.
                                      <a href="index.php">BOOK NOW </a>
                                      
                                      <a href="https://api.whatsapp.com/send?phone=+529983545838" target="_blank" ><img src="images/whats2.png" alt="taxi cancun airport" width="250" hight="100"/></a> 
