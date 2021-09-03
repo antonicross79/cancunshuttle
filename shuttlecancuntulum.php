@@ -9,7 +9,7 @@
 	<meta name="author" content="bytedex.com">
 	
 	<title>Shuttle Cancun Tulum | CancunShuttleAirport</title>
-    <meta name="description" content=" We have more than 20 years of Shuttle Aeropuerto Cancun service providing transportation services from Cancun Airport to any hotel or place in Cancun, Riviera Maya and Tulum.">
+    <meta name="description" content=" We have more than 20 years of Shuttle Cancun Tulum service providing transportation services from Cancun Airport to any hotel or place in Cancun, Riviera Maya and Tulum.">
     
 	
 		<link rel="stylesheet" href="css/theme-lblue.css" />
@@ -65,11 +65,11 @@
 		<header class="site-title color">
 			<div class="wrap">
 				<div class="container">
-					<h1>About us</h1>
+					<h1>Shuttle Cancun Tulum</h1>
 					<nav role="navigation" class="breadcrumbs">
 						<ul>
 							<li><a href="index.php" title="Home">Home</a></li>
-							<li>About us</li>
+							<li>Shuttle Cancun Tulum</li>
 						</ul>
 					</nav>
 				</div>
@@ -82,7 +82,7 @@
 				<!--- Content -->
 				<div class="content three-fourth textongrey">
 				    <!-- <h2>About us</h2> --><br>
-				    		<img src="../images/taxi_aeropuerto_cancun.jpg" alt="shuttle Aeropuerto Cancun" width="850" heigth="700"> <p><br></p>
+				    		<img src="../images/taxi_aeropuerto_cancun.jpg" alt="Shuttle Cancun Tulum" width="850" heigth="700"> <p><br></p>
 				    				    
 					<h1>Shuttle cancun Tulum <span>Service 24/7</span></h1><br>
 					<p class="lead">We have more than 20 years of Shuttle Cancun Tulum service providing transportation services from Cancun Airport to any hotel or place in Tulum, Cancun and Riviera Maya</p>.

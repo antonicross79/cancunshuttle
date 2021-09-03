@@ -84,7 +84,7 @@
 				    <!-- <h2>About us</h2> --><br>
 				    		<img src="../images/taxi_aeropuerto_cancun.jpg" alt="transfer cancun airport" width="850" heigth="700"> <p><br></p>
 				    				    
-					<h1>Transfer cancun airport <span>Service 24/7</span></h1><br>
+					<h1>Transfers Cancun airport </h1><br>
 					<p class="lead">We have more than 20 years of Transfers cancun airport service providing transportation services from Cancun Airport to any hotel or place in Cancun, Riviera Maya and Tulum</p>.
                                      <a href="index.php">BOOK NOW </a>
                                      

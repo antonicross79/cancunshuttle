@@ -3,11 +3,11 @@
   <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-	<meta name="keywords" content="Playa del Carmen Airport Transportation" />
-	<meta name="description" content="Playa del Carmen Airport Transportation.It is a beautiful coastal city that is located 55 km from Cancun Airport, if you do not have transportation you can contact us we are Cancun Shuttle Airport.">
+	<meta name="keywords" content="Hotel Airport Cancun.The city of Cancun which is 28 min from Cancun Airport where you can find the Hotel Zone with an approximate of 1067 Gran Turismo Hotels, if you do not have transportation to get to your hotel you can contact us." />
+	<meta name="description" content="Hotel Airport Cancun">
 	<meta name="author" content="bytedex.com">
 	
-	<title>Playa Mujeres Airport Transportation</title>
+	<title>Hotel Airport Cancun</title>
 	
 	<link rel="stylesheet" href="css/theme-lblue.css" />
 	<link rel="stylesheet" href="css/style.css" />
@@ -61,7 +61,7 @@
 		<header class="site-title color">
 			<div class="wrap">
 				<div class="container">
-					<h1>Playa del Carmen Airport Transportation</h1>
+					<h1>Hotel Airport Cancun</h1>
 					<nav role="navigation" class="breadcrumbs">
 						<ul>
 							<li><a href="index.php" title="Home">Home</a></li>
@@ -82,20 +82,20 @@
 					<!-- Post -->
 					<article class="single hentry">
 						<div class="entry-featured">
-							<img src="images/playa-del-carmen.jpeg" width="900" hight="800" alt="playa-del-carmen-airport-transportation" />
+							<img src="images/hotel-airport-cancun.jpg" width="900" hight="800" alt="hotel airport Cancun" />
 							<div class="overlay">
-								<a href="#" class="expand">+</a>
+								<a href="hotel-airport-cancun.php" class="expand">+</a>
 							</div>
 						</div>
 						<div class="entry-content">
-							<h2>Playa del Carmen Airport Transportation</h2>
+							<h2>Hotel Airport Cancun</h2>
 							
-							<p>Playa del Carmen Airport Transportation. It is a beautiful coastal city that is located 55 km from Cancun Airport, if you do not have transportation you can contact us we are Cancun Shuttle Airport we have transfers from Airport-Hotel, or Hotel-Tulum, Hotel-Holbox, or some other destination you would like to visit.
+							<p>The city of Cancun which is 28 min from Cancun Airport where you can find the Hotel Zone with an approximate of 1067 Gran Turismo Hotels, if you do not have transportation to get to your hotel you can contact us we are Cancun Shuttle Airport we have airport transportation -Hotel and also Hotel-Puerto Morelos, Hotel-Isla Mujeres or any other destination that you would like to know.</p>
+                            <p>In the hotel zone you will find a diversity of beautiful beaches, the beautiful viewpoint that is in Playa Delfines, and if you like to have a good night you will find several places such as Cocobongo, Hard Rock, La Vaquita etc.
 
-In Playa del Carmen you can find water cenotes, which are beautiful for their crystalline water and stalactite formations, also if you like shopping and eating in the best restaurants is Fifth Avenue, which is an avenue along the entire parallel of the city with shops, restaurants and nightclubs.</p>
-                            <p>In cancun shuttle we have transfers throughout cancun, mayan riviera, tulum, isla mujeres and more. You can contact us for more information</p>
+There are also water parks like Ventura Park and some hotels have their own like Casa Maya.</p>
                             
-                            <a href="https://api.whatsapp.com/send?phone=+529983545838" target="_blank" ><img src="/images/whats2.png" alt="Playa del Carmen Airport Transportation" width="250" hight="100"/></a> 
+                            <a href="https://api.whatsapp.com/send?phone=+529983545838" target="_blank" ><img src="/images/whats2.png" alt="hotel airport cancun " width="250" hight="100"/></a> 
 			
 							
 						
@@ -104,20 +104,13 @@ In Playa del Carmen you can find water cenotes, which are beautiful for their cr
 					</article>
 					<!-- //Post -->
 					
-	   	<!-- service2-->
+		<!-- service2-->
 		
 		<?php
 		
 		include "service2.php";
 		
 		?>
-		
-		
-		
-		<!-- fin service2 -->
-	
-		
-							
 				
 		<!-- sidebar2-->
 		

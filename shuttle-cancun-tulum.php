@@ -3,11 +3,11 @@
   <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-	<meta name="keywords" content="Playa del Carmen Airport Transportation" />
-	<meta name="description" content="Playa del Carmen Airport Transportation.It is a beautiful coastal city that is located 55 km from Cancun Airport, if you do not have transportation you can contact us we are Cancun Shuttle Airport.">
+	<meta name="keywords" content="shuttle cancun tulum " />
+	<meta name="description" content="shuttle cancun tulum. It is a city on the coast of the Riviera Maya an hour and a half from Cancun Airport, if you do not have transportation for your next vacation you can contact us we are Cancun Shuttke Airport">
 	<meta name="author" content="bytedex.com">
 	
-	<title>Playa Mujeres Airport Transportation</title>
+	<title>Shuttle Cancun Tulum</title>
 	
 	<link rel="stylesheet" href="css/theme-lblue.css" />
 	<link rel="stylesheet" href="css/style.css" />
@@ -61,7 +61,7 @@
 		<header class="site-title color">
 			<div class="wrap">
 				<div class="container">
-					<h1>Playa del Carmen Airport Transportation</h1>
+					<h1>Shuttle Cancun Tulum</h1>
 					<nav role="navigation" class="breadcrumbs">
 						<ul>
 							<li><a href="index.php" title="Home">Home</a></li>
@@ -82,20 +82,20 @@
 					<!-- Post -->
 					<article class="single hentry">
 						<div class="entry-featured">
-							<img src="images/playa-del-carmen.jpeg" width="900" hight="800" alt="playa-del-carmen-airport-transportation" />
+							<img src="images/tulumm.jpeg" width="900" hight="800" alt="shuttle cancun isla tulum" />
 							<div class="overlay">
-								<a href="#" class="expand">+</a>
+								<a href="shuttle-cancun-tulum.php" class="expand">+</a>
 							</div>
 						</div>
 						<div class="entry-content">
-							<h2>Playa del Carmen Airport Transportation</h2>
+							<h2>Shuttle Cancun Tulum</h2>
 							
-							<p>Playa del Carmen Airport Transportation. It is a beautiful coastal city that is located 55 km from Cancun Airport, if you do not have transportation you can contact us we are Cancun Shuttle Airport we have transfers from Airport-Hotel, or Hotel-Tulum, Hotel-Holbox, or some other destination you would like to visit.
+							<p>It is a city on the coast of the Riviera Maya an hour and a half from Cancun Airport, if you do not have transportation for your next vacation you can contact us we are Cancun Shuttke Airport we have transfers from Airport-Hotel to the city of Tulum or Hotel-Akumall or some other place that you would like to know.</p>
 
-In Playa del Carmen you can find water cenotes, which are beautiful for their crystalline water and stalactite formations, also if you like shopping and eating in the best restaurants is Fifth Avenue, which is an avenue along the entire parallel of the city with shops, restaurants and nightclubs.</p>
-                            <p>In cancun shuttle we have transfers throughout cancun, mayan riviera, tulum, isla mujeres and more. You can contact us for more information</p>
+                            <p></p>In Tulum you can find beautiful beaches and an attraction that you cannot miss are the Mayan ruins of Tulum that are on the seashore of the cove of Tankah, they also find beautiful cenotes.</p>
                             
-                            <a href="https://api.whatsapp.com/send?phone=+529983545838" target="_blank" ><img src="/images/whats2.png" alt="Playa del Carmen Airport Transportation" width="250" hight="100"/></a> 
+                            
+                            <a href="https://api.whatsapp.com/send?phone=+529983545838" target="_blank" ><img src="/images/whats2.png" alt="isla mujeres Shuttle " width="250" hight="100"/></a> 
 			
 							
 						
@@ -104,20 +104,13 @@ In Playa del Carmen you can find water cenotes, which are beautiful for their cr
 					</article>
 					<!-- //Post -->
 					
-	   	<!-- service2-->
+		<!-- service2-->
 		
 		<?php
 		
 		include "service2.php";
 		
 		?>
-		
-		
-		
-		<!-- fin service2 -->
-	
-		
-							
 				
 		<!-- sidebar2-->
 		
