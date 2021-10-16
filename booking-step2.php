@@ -167,7 +167,7 @@
 							<div class="form-check">
 							  <input class="form-check-input" type="radio" name="t_pago" id="t_pago1" value="DIRECTO" checked style="width: 12px;height: 12px">
 							  <label class="form-check-label" for="t_pago1">
-							    Direct Payment. Pay when boarding
+							    Direct Payment. Pay when boarding.
 							  </label>
 								</div>
 								<div class="form-check">

@@ -1,6 +1,6 @@
 <!-- Header -->
 		<nav class="navbar navbar-expand-lg navbar-light bg-light d-md-none">
-			  <a class="navbar-brand" href="#">
+			  <a class="navbar-brand" >
 			    <img src="images/logocancuntransportation3.jpg" width="200" alt="Cancun Shuttle Airport" />
 			  </a>
 			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -14,19 +14,17 @@
 			      <li class="nav-item">
 			        <a class="nav-link" href="about.php">About Us</a>
 			      </li>
-			      <li class="nav-item">
-			        <a class="nav-link" href="service.php">Services</a>
-			      </li>
+			      
 			      <li class="nav-item">
 			        <a class="nav-link disabled" href="contact.php">Contact</a>
 			      </li>
 			      <li class="nav-item dropdown">
-			        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			        <a class="nav-link dropdown-toggle"  id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 			          Language
 			        </a>
 			        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-			          <a class="dropdown-item" href="es/index.php">ESPANOL</a>
-			          <a class="dropdown-item" href="index.php">INGLES</a>
+			          <a class="dropdown-item" href="es/">SPANISH</a>
+			          <a class="dropdown-item" href="index.php">ENGLISH</a>
 			          
 			          
 			        </div>
@@ -64,19 +62,12 @@
 						<li><a href="about.php" title="About us">About Us</a></li>
 						
 						<li><a href="destinations.php" title="Shuttle aeropuerto cancun">Destinations</a></li>
-						
 					
-					
-				
-					<li><a href="service.php" title="Services">Services</a></li>
-					
-		
-						
 					
 						<li><a href="contact.php" title="Contact">Contact</a></li>
 						
 						<li>
-						<a href="es/" title="Transfers"><img src="images/espana.png" alt="Cancun Shuttle Airport" /> Español</a> </li>
+						<a href="es/index.php" title="Transfers"><img src="images/espana.png" alt="Cancun Shuttle Airport" /> SPANISH</a> </li>
 						
 						</ul>
 					

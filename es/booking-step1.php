@@ -112,7 +112,7 @@ $sql = "SELECT * FROM rutas AS rut
 	
 	<title>Booking step 1</title>
 	
-		<link rel="stylesheet" href="../css/theme-lblue.css" />
+		<link rel="stylesheet" href="../css/theme-dblue.css" />
 	<link rel="stylesheet" href="../css/style.css" />
 	<link rel="stylesheet" href="../css/animate.css" />
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Raleway:400,500,600,700|Montserrat:400,700">

@@ -52,7 +52,7 @@ $destinos2 = array();
 				LEFT JOIN ubicaciones AS ubi ON ubi.n_ubicacion ='".$destino_2."'
 				LEFT JOIN transportes AS trans ON trans.id_transporte = rut.id_transporte
 				WHERE id_p_llegada = ubi.id_ubicacion AND t_traslado=1 AND ".$personas." BETWEEN cantidad_min and  cantidad_max";
-	$respuestaHotelHotel = mysqli_query($conexion,$sql);
+	$respuestaHotelHotel = mysqli_query($conexion,$sqlHotelHotel);
 	$hotelhotel = [];
 	while ($rowHotel = mysqli_fetch_array($respuestaHotelHotel)) {
 		$hotelhotel[] = $rowHotel;
@@ -74,7 +74,7 @@ $destinos2 = array();
 	<link rel="stylesheet" href="../css/theme-dblue.css" />
 	<link rel="stylesheet" href="../css/style.css" />
 	<link rel="stylesheet" href="../css/animate.css" />
-	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Raleway:400,500,600,700|Montserrat:400,700">
+	<!-- <link href='http://fonts.googleapis.com/css?family=Raleway:400,500,600,700|Montserrat:400,700' rel='stylesheet' type='text/css'> -->
 	<link rel="shortcut icon" href="../images/favicon.ico">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">

@@ -15,7 +15,7 @@
 		<link rel="stylesheet" href="css/theme-lblue.css" />
 	<link rel="stylesheet" href="css/style.css" />
 	<link rel="stylesheet" href="css/animate.css" />
-	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Raleway:400,500,600,700|Montserrat:400,700">
+	<!-- <link href='http://fonts.googleapis.com/css?family=Raleway:400,500,600,700|Montserrat:400,700' rel='stylesheet' type='text/css'> -->
 	<link rel="shortcut icon" href="images/favicon.ico">
 	
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -85,10 +85,10 @@
 				    		<img src="../images/taxi_aeropuerto_cancun.jpg" alt="taxi Aeropuerto cancun" width="850" heigth="700"> <p><br></p>
 				    				    
 					<h1>Taxi aeropuerto Cancun <span>Service 24/7</span></h1><br>
-					<p class="lead">We have more than 20 years of Taxi aeropuerto Transfers service providing transportation services from Cancun Airport to any hotel or place in Cancun, Riviera Maya and Tulum</p>.
+					<p class="lead">We have more than 20 years of Taxi aeropuerto Cancun Transfers service providing transportation services from Cancun Airport to any hotel or place in Cancun, Riviera Maya and Tulum</p>.
                                      <a href="index.php">BOOK NOW </a>
                                      
-                                     <a href="https://api.whatsapp.com/send?phone=+529983545838" target="_blank" ><img src="images/whats2.png" alt="taxi cancun airport" width="250" hight="100"/></a> 
+                                     <a href="https://api.whatsapp.com/send?phone=+529983545838" target="_blank" ><img src="images/whats2.png" alt="taxi aeropuerto cancun" width="250" hight="100"/></a> 
                                      
                                      
 					

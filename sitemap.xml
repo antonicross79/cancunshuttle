@@ -9,47 +9,117 @@
 
 <url>
   <loc>https://cancunshuttleairport.com/</loc>
-  <lastmod>2021-06-18T01:29:05+00:00</lastmod>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://cancunshuttleairport.com/index.php</loc>
-  <lastmod>2021-06-18T01:29:05+00:00</lastmod>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://cancunshuttleairport.com/about.php</loc>
-  <lastmod>2021-06-18T01:29:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cancunshuttleairport.com/service.php</loc>
-  <lastmod>2021-06-18T01:29:05+00:00</lastmod>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://cancunshuttleairport.com/contact.php</loc>
-  <lastmod>2021-06-18T01:29:05+00:00</lastmod>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cancunshuttleairport.com/es/</loc>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cancunshuttleairport.com/destinations.php</loc>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://cancunshuttleairport.com/es/index.php</loc>
-  <lastmod>2021-06-18T01:29:05+00:00</lastmod>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cancunshuttleairport.com/isla-mujeres-airport-transportation.php</loc>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cancunshuttleairport.com/playa-del-carmen-airport-transportation.php</loc>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cancunshuttleairport.com/shuttle-cancun-tulum.php</loc>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cancunshuttleairport.com/cancun-airport-transportation.php</loc>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cancunshuttleairport.com/shuttleaeropuertocancun.php</loc>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cancunshuttleairport.com/shuttlecancuntulum.php</loc>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cancunshuttleairport.com/cancunairportshuttle.php</loc>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cancunshuttleairport.com/hotelairportcancun.php</loc>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cancunshuttleairport.com/transfercancunaeropuerto.php</loc>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://cancunshuttleairport.com/es/nosotros.php</loc>
-  <lastmod>2021-06-18T01:29:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cancunshuttleairport.com/es/servicios.php</loc>
-  <lastmod>2021-06-18T01:29:05+00:00</lastmod>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cancunshuttleairport.com/es/contacto.php</loc>
-  <lastmod>2021-06-18T01:29:05+00:00</lastmod>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cancunshuttleairport.com/es/destinos.php</loc>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cancunshuttleairport.com/es/taxi-aeropuerto-cancun-a-zona-hotelera.php</loc>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cancunshuttleairport.com/es/taxi-aeropuerto-cancun-a-playa-del-carmen.php</loc>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cancunshuttleairport.com/es/taxi-aeropuerto-cancun-a-tulum.php</loc>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cancunshuttleairport.com/es/taxi-aeropuerto-cancun-a-isla-mujeres.php</loc>
+  <lastmod>2021-10-08T03:32:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 

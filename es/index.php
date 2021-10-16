@@ -46,9 +46,11 @@
 	<meta name="author" content="bytedex.com">
 	<meta name="revisit-after" content="1 days"/>
 	
-	<title>taxi airport cancun | CancunShuttleAirport</title>
-	<meta name="description" content="taxi airport cancun. En CancunShuttleAirport tenemostraslados desde el aeropuerto de Cancun a las ciudades de Playa del Carmen,Tulum,Zona hotelera, isla mujeres y sus alrededores">
+	<title>traslado aeropuerto cancun | CancunShuttleAirport</title>
+	<meta name="description" content="traslado aeropuerto cancun. En CancunShuttleAirport tenemos traslados desde el aeropuerto de Cancun a las ciudades de Playa del Carmen,Tulum,Zona hotelera, isla mujeres y sus alrededores">
 	
+	<!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/css/bootstrap.css">
 	
 	<link rel="stylesheet" href="../css/styleslideshow.css" />
 	<link rel="stylesheet" href="../css/whatsapp.css" />
@@ -57,7 +59,7 @@
 	<link rel="stylesheet" href="../css/theme-dblue.css" />
 	<link rel="stylesheet" href="../css/style.css" />
 	<link rel="stylesheet" href="../css/animate.css" />
-	<link href='http://fonts.googleapis.com/css?family=Raleway:400,500,600,700|Montserrat:400,700' rel='stylesheet' type='text/css'>
+	<!-- <link href='http://fonts.googleapis.com/css?family=Raleway:400,500,600,700|Montserrat:400,700' rel='stylesheet' type='text/css'> -->
 	<link rel="shortcut icon" href="../images/favicon.ico" />
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -116,59 +118,46 @@
 	<main class="main" role="main">
 		<!-- Intro -->
 		
-		<div class="container" style="max-width: none;">
-    <div class="slider">
-        <div class="slide foto1">
-            <div class="caption">
-                <h2>Traslado Aeropuerto-Hotel-Aeropuerto</h2>
-                <p>
+            		<!-- slide principal -->
+		<div class="container-fluid">
+			 <div class="row">
+				
+				<!-- <img src="images/hotel-airport-cancun.jpg"  alt="hotel airport Cancun" class= "rounded mx-auto img-fluid"/> -->
+				     
+				  <div class= "col-md-12 col-md-offset-3 mb-3"> 
                     
-                </p>
-            </div>
-        </div>
-
-        <div class="slide slide2">
-            <!--<div class="caption">
-                <h2></h2> 
-                <p> 
-                    
-                </p> 
-            </div> -->
-        </div>
-
-        <div class="slide foto1">
-            <div class="caption">
-                <h2>Necesita un Traslado Privado??</h2>
-                <p>
-                    
-                </p>
-            </div>
-        </div>
-
-         <div class="slide slide2">
-            <!-- <div class="caption">
-                <h2>Tours</h2>
-                <p>
-                    
-                </p> 
-            </div> -->
-        </div>. 
-
-        <div class="slide foto1">
-            <div class="caption">
-                <h2>Traslado Seguro</h2>
-                <p>
-                    
-                </p>
-            </div>
-        </div>
-
-       
-
-    </div>
-    </div>
+                      <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                      <div class="carousel-indicators">
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                      </div>
+                      <div class="carousel-inner">
+                        <div class="carousel-item active">
+                          <img src="../images/foto1.jpeg" class="d-block w-100" alt="Cancun shuttle">
+                        </div>
+                        <div class="carousel-item">
+                          <img src="../images/foto2.jpeg" class="d-block w-100" alt="taxi aeropuerto cancun">
+                        </div>
+                        <div class="carousel-item">
+                          <img src="../images/hotel-airport-cancun.jpg" class="d-block w-100" alt="hotel airport cancun">
+                        </div>
+                      </div>
+                      <!--
+                      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                      </button>
+                      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                      </button> -->
+                   
+                     </div>
+                     </div>
+		<!-- fin slide -->
 		<!-- //Intro -->
-		<div class="container-fluid" style="background: #4bb5c1;">
+		<div class="container-fluid" style="background: #4bb5c1;" id="uno">
 		<form action="search-results.php" method="post">
 		<div class="form-row p-5" style="border: 1px solid #00000059;border-radius: 20px;box-shadow: 5px 5px 10px 2px #00000042;background: white;">
 
@@ -319,201 +308,320 @@
 		</form>
 		</div>
 	    	<!-- Call to action -->
-		<div class="color cta">
-			<div class="wrap">
-				<p class="wow fadeInRight">Nuestros Servicios</p>
+	    	
+	    	<br>
+	    	
+	    	
+		
+		<div class="container-fluid text-center mt-5">
+			
 				
-			</div>
-		</div>
-		<!-- //Call to action -->
-	
-
-		<!-- Services -->
-			<div class="services boxed white" id="services">
-		<!-- Item -->
-			<article class="one-fourth wow fadeIn">
-			<figure class="featured-image">
-			<img src="../images/airport_cancun.jpg" alt="" />
-			<div class="overlay">
-			<a href="service.php" class="expand">+</a>
-			</div>
-			</figure>
-			<div class="details">
-			<h4><a href="service.php">Traslado Aeropuerto -Cancun</a></h4>
-			<p>La Zona Hotelera de Cancún está a unos 15-25 minutos del Aeropuerto de Cancún y tiene algunas de las playas y vistas más hermosas de México.</p>
-			<a class="more" title="Read more" href="service.php">Leer Más</a>
-			</div>
-			</article>
-		<!-- //Item -->
-		<!-- Item -->
-			<article class="one-fourth wow fadeIn" data-wow-delay=".2s">
-			<figure class="featured-image">
-			<img src="../images/playa_del_carmen.jpg" alt=""/>
-			<div class="overlay">
-			<a href="service.php" class="expand">+</a>
-			</div>
-			</figure>
-			<div class="details">
-			<h4><a href="service.php">Traslado Aeropuerto - Playa del Carmen</a></h4>
-			<p>Playa del Carmen está a unos 45-55 minutos del aeropuerto de Cancún y es una ciudad cosmopolita conocida por su población diversa.</p>
-			<a class="more" title="Read more" href="service.php">Leer más</a>
-			</div>
-			</article>
-		<!-- //Item -->
-		<!-- Item -->
-			<article class="one-fourth wow fadeIn" data-wow-delay=".4s">
-			<figure class="featured-image">
-			<img src="../images/tulum.jpg" alt="" />
-			<br>
-			<div class="overlay">
-			<a href="service.php" class="expand">+</a>
-			</div>
-			</figure>
-			<div class="details">
-			<h4><a href="service.php">Traslado - Aeropuerto - Tulum</a></h4>
-			<p>Tulum se encuentra aproximadamente a 1:30- 2:00 horas del Aeropuerto de Cancún y es el destino de moda en la Riviera Maya con gente que viene de todo el mundo.</p>
-			<a class="more" title="Read more" href="service.php">Leer más</a>
-			</div>
-			</article>
-	
+				<h1>Cancun Shuttle Airport</h1>
+				
+				<p>Bienvenido a Cancun Transportations. En Transportación del Aeropuerto de Cancún tenemos más de 20 años de experiencia brindando Transportación desde el Aeropuerto de Cancún y Tours en Cancún y Riviera Maya. Sabemos lo que necesita. Brindamos Transporte privado, seguro y confiable desde el Aeropuerto de Cancún a su hotel o alojamiento en la Zona Hotelera de Cancún, Centro de Cancún, Playa Mujeres, Puerto Morelos, Playa del Carmen, Puerto Aventuras, Akumal, Tulum o cualquier parte de la Riviera Maya.</p>
+                    
+                    <div class="text-center"> 
+                   	    <h3>Los mejores precios en traslados al aeropuerto - Cancún, Riviera maya, Playa mujeres, Tulum</h3> 
+                   	        <p><img src="../images/calidad.png" alt="transfer cancun riviera maya" width="200" higth="200" class="img-fluid" /></p>
+                   	    
+                   	 </div>
+                   	    
+                  
+	 
+                	<!--camionetas -->
+			 <div class ="row" >
+				 <div class="col-sm-4 mx-auto d-block"> 
+										<div class="card" style="width: 25rem;">
+					  <img class="card-img-top" src="../images/camioneta1.jpeg"  alt="cancun shuttle airport">
+					  <div class="card-body">
+						<h5 class="card-title">Aeropuerto Cancun Zona Hotelera</h5>
+						<p class="card-text"> Aeropuerto Cancun - Viaje de ida y vuelta a la zona hotelera para hasta 1-6 pasajeros</p>
+						<h4>$45,00 USD</h4>
+						<a href="https://cancunshuttleairport.com/es/#uno" class="btn btn-primary">Reserva</a>
+					</div>
+					
+						</div>	
+				 </div>
+					
+					<div class="col-sm-4 mx-auto d-block">
+										<div class="card" style="width: 25rem;">
+					  <img class="card-img-top" src="../images/camioneta3.jpeg" alt="cancun shuttle airport">
+					  <div class="card-body">
+						<h5 class="card-title">Taxi aeropuerto Cancun - Riviera Maya</h5>
+						<p class="card-text"> Aeropuerto Cancun - Riviera Maya Ida 1-16 pasajeros </p>
+						<h4>$95,00 USD</h4>
+						<a href="https://cancunshuttleairport.com/es/#uno" class="btn btn-primary">Book</a>
+					</div>
+				
+							</div>	
+						</div>
+					
+					<div class="col-sm-4 mx-auto d-block">
+					 <div class="card" style="width: 25rem;">
+					  <img class="card-img-top" src="../images/camioneta2.jpeg" alt="cancun shuttle airport">
+					  <div class="card-body">
+						<h5 class="card-title">Taxi aeropuerto Cancun - Tulum</h5>
+						<p class="card-text"> Aeropuerto Cancun - Tulum Ida 1-6 pasajeros</p>
+						<h4>$138,00 USD</h4>
+						<a href="https://cancunshuttleairport.com/es/#uno" class="btn btn-primary">Reserva</a>
+				 </div>
+					</div>
+			           </div>
 			
-			<!-- Item -->
-				<!-- Item -->
-			<article class="one-fourth wow fadeIn" data-wow-delay=".4s">
-			<figure class="featured-image">
-			<img src="../images/private_cancun_playa.jpg" alt="" />
-			<br>
-			<div class="overlay">
-			<a href="service.php" class="expand">+</a>
-			</div>
-			</figure>
-			<div class="details">
-			<h4><a href="service.php">Viaje Especial Cancun-Tulum-Playa del Carmen</a></h4>
-			<p>viaje comodo y seguro en cancun,playa del carmen,Tulum y Riviera Maya.</p>
-			<a class="more" title="Read more" href="service.php">Leer más</a>
-			</div>
-			</article>
-	
-			
-			<!-- Item -->
-		
-			</div>
-			<!-- //Services -->
-		
-		
-			<!-- Call to action -->
-		<div class="color cta">
-			<div class="wrap">
-				<p class="wow fadeInLeft">Momentos inolvidables</p>
-				<p class="wow fadeInRight">Redes sociales</p>
-			</div>
 		</div>
-		<!-- //Call to action -->
+	         <!-- fin camionetas -->
 		
 		
-		<!-- facebook -->
-		<br>
-		
-		<!-- Item -->
-			<article class="one-half wow fadeIn">
-					<div class="container">
-    <div class="slider">
-        <div class="slide foto1">
-            <div class="caption1">
-                
-                <p>
+		<!-- destinations -->
+		<div class = "container-fluid mt-5">
+		    <h2 class="text-left">Otros Destinos</h2>
+		    <div class = "row">
+		        
+		           <div class="col-md-3 col-md-offset-4 mb-3">
+		             <div class="card" style="width: 21rem;">
+                         <img src="../images/hotel-airport-cancun.jpg" class="card-img-top" alt="Taxi aeropuerto de Cancun a Hotel Zona Hotelera">
+                         <div class="card-body">
+                         <h5 class="card-title">Taxi Aeropuerto de Cancun a Zona Hotelera</h5>
+                         <p class="card-text">La Zona Hotelera abarca varios subdistritos y alberga complejos turísticos con todo incluido, restaurantes internacionales y playas de arena para relajarse.</p>
+                         <a href="https://cancunshuttleairport.com/es/taxi-aeropuerto-cancun-a-zona-hotelera.php" class="btn btn-primary">Visitar</a>
+                        </div>
+                     </div>
+                     
+                    </div>
+		    
+                    <div class="col-md-3 col-md-offset-3 mb-3">
+		             <div class="card" style="width: 21rem;">
+                         <img src="../images/playa_del_carmen_med.jpg" class="card-img-top" width ="100" hight = "150"  alt="taxi aeropuerto de Cancun a Playa del Carmen">
+                         <div class="card-body">
+                         <h5 class="card-title">Taxi Aeropuerto Cancun a Playa del Carmen</h5>
+                         <p class="card-text">Playa del Carmen es un paraiso costero en México que se encuentra a lo largo de la costa caribeña de la Riviera Maya, en la Península de Yucatán.</p>
+                         <a href="https://cancunshuttleairport.com/es/taxi-aeropuerto-cancun-a-playa-del-carmen.php" class="btn btn-primary">Visitar</a>
+                        </div>
+                     </div>
+                     
+                    </div>
                     
-                </p>
-            </div>
-        </div>
-
-        <div class="slide foto2">
-            <div class="caption1"> 
-                
-                <p>
+                    <div class="col-md-3 col-md-offset-4 mb-3">
+		             <div class="card" style="width: 21rem;">
+                         <img src="../images/tulum-shuttle.jpg" class="card-img-top" alt="taxi aeropuerto de Cancun a Tulum">
+                         <div class="card-body">
+                         <h5 class="card-title">Taxi Aeropuerto de Cancun a Tulum</h5>
+                         <p class="card-text">Es conocido por sus ruinas bien conservadas de un antiguo puerto maya. El edificio principal es una gran estructura de piedra llamada El Castillo.</p>
+                         <a href="https://cancunshuttleairport.com/es/taxi-aeropuerto-cancun-a-tulum.php" class="btn btn-primary">Visitar</a>
+                        </div>
+                     </div>
+                     
+                    </div>
                     
-                </p>
-            </div>
-        </div>
+                    <div class="col-md-3 col-md-offset-3 mb-3 ">
+		                
+		             <div class="card" style="width: 21rem;">
+                         <img src="../images/islamujeres.jpeg" class="card-img-top" alt="Taxi Aeropuerto Cancun a Isla Mujeres">
+                         <div class="card-body">
+                         <h5 class="card-title">Taxi Aeropuerto Cancun a Isla Mujeres</h5>
+                         <p class="card-text">Isla Mujeres es una isla mexicana en el Mar Caribe, a 13 km de la costa de Cancún.</p>
+                         
+                         <a href="https://cancunshuttleairport.com/es/taxi-aeropuerto-cancun-a-isla-mujeres.php" class="btn btn-primary">Visitar</a>
+                        </div>
+                     </div>
+                     
+                    </div>
+		        
+		    </div>
+		    
 
-        <div class="slide foto3">
-            <div class="caption1"> 
-                
-                <p>
-                    
-                </p>
-            </div>
-        </div>
-
-        <div class="slide foto4">
-            <div class="caption1"> 
-                
-                <p>
-                    
-                </p>
-            </div>
-        </div>
-
-        <div class="slide foto1">
-            <div class="caption1"> 
-                
-                <p>
-                    
-                </p>
-            </div>
-        </div>
-
-       
-
-    </div>
-    </div>
-    
-    
-			</article>
-		<!-- //Item -->
-		<!-- Item -->
-			<article class="one-half wow fadeIn" data-wow-delay=".2s">
-			<figure class="featured-image">
-			<div class="fb-page" data-href="https://www.facebook.com/TransportationServiceinCancun/" data-tabs="timeline" data-width="540" data-height="600" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/TransportationServiceinCancun/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/TransportationServiceinCancun/">Cancun Transportation</a></blockquote></div>
-			
-			</article>
-		<!-- //Item -->
-		
-		
-			</div>
-			<!-- //facebook -->
-		
-		
-		
-		
-		<!-- Testimonials -->
-		<!-- 
-		 <div class="testimonials center black">
-			<div class="wrap">
-				<h6 class="wow fadeInDown">A great team working for you!</h6>
-				<p class="wow fadeInUp">A great team working for your comfortable and safe transfer.</p>
-				<p class="meta wow fadeInUp">-Matias...</p>
-			</div>
-		</div> 
-		<!-- //Testimonials -->
-	
-		<!-- <div class="partners white center">
-			<div class="wrap">
-				<h2 class="wow fadeIn">Our partners</h2>
-				<div class="one-fifth wow fadeIn"><a href="#"><img src="http://placehold.it/205x60" alt="" /></a></div>
-				<div class="one-fifth wow fadeIn" data-wow-delay=".2s"><a href="#"><img src="http://placehold.it/205x60" alt="" /></a></div>
-				<div class="one-fifth wow fadeIn" data-wow-delay=".4s"><a href="#"><img src="http://placehold.it/205x60" alt="" /></a></div>
-				<div class="one-fifth wow fadeIn" data-wow-delay=".6s"><a href="#"><img src="http://placehold.it/205x60" alt="" /></a></div>
-				<div class="one-fifth" data-wow-delay=".8s"><a href="#"><img src="http://placehold.it/205x60" alt="" /></a></div>
-			</div>
+		    
 		</div>
-		-->   
-	
+			
+	<!-- fin destinations -->
 		
 		
+	         <!-- redes sociales -->
+	            <div class="row mt-5 mb-5">
+	           <div class="col-sm-4">
+	               
+	               <h2> They recommend us </h2>
 	
-	</main>
-	<!-- //Main -->
+            	<div class="container-fluid">
+            	    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+              <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                   <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="5" aria-label="Slide 6"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="6" aria-label="Slide 7"></button>
+              </div>
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <img src="../images/foto1.jpeg" class="d-block w-100" alt="cancun shuttle airport">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/canc1.jpg" class="d-block w-100" alt="cancun shuttle airport">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/canc2.jpg" class="d-block w-100" alt="cancun shuttle airport">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/canc3.jpg" class="d-block w-100" alt="cancun shuttle airport">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/canc4.jpg" class="d-block w-100" alt="cancun shuttle airport">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/canc5.jpg" class="d-block w-100" alt="cancun shuttle airport">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/canc6.jpg" class="d-block w-100" alt="cancun shuttle airport">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/canc7.jpg" class="d-block w-100" alt="cancun shuttle airport">
+                </div>
+                
+                </div>
+               
+              </div>
+               <!--<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+              </button>
+              <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+              </button>  -->
+            </div>
+            	    
+            	</div>
+            
+	               
+	         
+	           
+	           <div class="col-sm-4">
+	               <h2> What do our customers say </h2>
+	
+            	<div class="container-fluid">
+            	    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+              <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="5" aria-label="Slide 6"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="6" aria-label="Slide 7"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="7" aria-label="Slide 8"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="8" aria-label="Slide 9"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="9" aria-label="Slide 10"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="10" aria-label="Slide 11"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="11" aria-label="Slide 12"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="12" aria-label="Slide 13"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="13" aria-label="Slide 14"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="14" aria-label="Slide 15"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="15" aria-label="Slide 16"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="16" aria-label="Slide 17"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="17" aria-label="Slide 18"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="18" aria-label="Slide 19"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="19" aria-label="Slide 20"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="20" aria-label="Slide 21"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="21" aria-label="Slide 22"></button>
+               
+                
+              </div>
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <img src="../images/testimonio1.png" class="d-block w-100" alt="taxi aeropuerto cancun">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio2.png" class="d-block w-100" alt="taxi aeropuerto cancun">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio3.png" class="d-block w-100" alt="taxi aeropuerto cancun">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio4.png" class="d-block w-100" alt="taxi aeropuerto cancun">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio5.png" class="d-block w-100" alt="taxi aeropuerto cancun">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio6.png" class="d-block w-100" alt="taxi aeropuerto cancun">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio7.png" class="d-block w-100" alt="taxi aeropuerto cancun">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio8.png" class="d-block w-100" alt="taxi aeropuerto cancun">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio9.png" class="d-block w-100" alt="taxi aeropuerto cancun">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio10.png" class="d-block w-100" alt="taxi aeropuerto cancun">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio11.png" class="d-block w-100" alt="taxi aeropuerto cancun">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio12.png" class="d-block w-100" alt="playa del carmen shuttle">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio13.png" class="d-block w-100" alt="playa del carmen shuttle">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio14.png" class="d-block w-100" alt="playa del carmen shuttle">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio15.png" class="d-block w-100" alt="playa del carmen shuttle">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio16.png" class="d-block w-100" alt="playa del carmen shuttle">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio17.png" class="d-block w-100" alt="playa del carmen shuttle">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio18.png" class="d-block w-100" alt="playa del carmen shuttle">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio19.png" class="d-block w-100" alt="playa del carmen shuttle">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio20.png" class="d-block w-100" alt="playa del carmen shuttle">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio21.png" class="d-block w-100" alt="playa del carmen shuttle">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio22.png" class="d-block w-100" alt="tulum shuttle">
+                </div>
+                <div class="carousel-item">
+                  <img src="../images/testimonio3.png" class="d-block w-100" alt="tulum shuttle">
+                </div>
+              </div>
+               <!--<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+              </button>
+              <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+              </button>  -->
+            </div>
+            	    
+            	</div>
+            	</div>
+            	
+            	<div class="col-md-4 col-md-offset-4 mb-3 mx-auto d-block">
+            	    <h2>Our social networks</h2>
+            	    <div class="fb-page" data-href="https://www.facebook.com/TransportationServiceinCancun/" data-tabs="timeline" data-width="440" data-height="300" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/TransportationServiceinCancun/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/TransportationServiceinCancun/">Cancun Transportation</a></blockquote></div>
+			
+            	    
+            	</div>
+	
+	 </div>
+	 
+	 <!-- fin redes sociales -->
 	
 	
 <!-- Footer -->
@@ -555,6 +663,10 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+	
+	<!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+	
 	<script src="../js/jquery.uniform.min.js"></script>
 	<script src="../js/jquery.datetimepicker.js"></script>
 	<script src="../js/jquery.slicknav.min.js"></script>

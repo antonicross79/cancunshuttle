@@ -14,7 +14,7 @@
 		<link rel="stylesheet" href="css/theme-lblue.css" />
 	<link rel="stylesheet" href="css/style.css" />
 	<link rel="stylesheet" href="css/animate.css" />
-	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Raleway:400,500,600,700|Montserrat:400,700">
+	<!-- <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Raleway:400,500,600,700|Montserrat:400,700"> -->
 	<link rel="shortcut icon" href="images/favicon.ico">
 	
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -151,7 +151,7 @@ include "footer.php";
     <script src="js/jquery.min.js"></script>
 	<script src="js/jquery.uniform.min.js"></script>
 	<script src="js/jquery.slicknav.min.js"></script>
-	<script src="http://maps.googleapis.com/maps/api/js?v=3&amp;sensor=false"></script>
+	<!-- <script src="http://maps.googleapis.com/maps/api/js?v=3&amp;sensor=false"></script> -->
 	<script src="js/infobox.js"></script>
 	<script src="js/wow.min.js"></script>
 	<script src="js/scripts.js"></script>
