@@ -9,7 +9,7 @@ $tipo_traslado = $_POST['modo'];
 $fecha = $_POST['dep-date'];
 $fecha_r = $_POST['ret-date'];
 $nombre_transporte = $_POST['n_transporte'];
-$precio= $_POST['precio'];
+$precio= number_format($_POST['precio'],2,',','');
 
 $user_agent = $_SERVER['HTTP_USER_AGENT'];
 $is_firefox = false;
@@ -277,7 +277,7 @@ if(stripos($user_agent,'Firefox') !== false){
 										<input type="hidden" name="n_transporte" value="'.$nombre_transporte.'"/>
 										<input type="hidden" name="pickup_hour_arrival" value="'.$_POST['pickup_hour_arrival'].'"/>
 										<input type="hidden" name="pickup_hour_departure" value="'.$_POST['pickup_hour_departure'].'"/>
-										<input type="hidden" name="total_and_extras" value="'.$precio.' USD" id="total_and_extras"/>
+										<input type="hidden" name="total_and_extras" value="'.number_format($precio,2,',','').' USD" id="total_and_extras"/>
 										';
                             echo $output;
                             if($tipo_traslado == 1){
@@ -407,7 +407,7 @@ if(stripos($user_agent,'Firefox') !== false){
 							
 							<dl class="total">
 								<dt>Total</dt>
-								<dd><?php echo $precio; ?>,00 usd</dd>
+								<dd><?php echo $precio; ?> usd</dd>
 							</dl>
 						</div>
 					</div>

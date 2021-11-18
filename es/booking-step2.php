@@ -171,12 +171,16 @@ $sql = "SELECT * FROM rutas AS rut
 								  <label class="form-check-label" for="t_pago2">
 								    Pago seguro con Paypal
 								  </label>
+								  <br>
+								  <span id="spanPaypal" style="display: none; position: absolute; top: 17px; color:red; font-size: 13px; font-weight: 600;" >se cobrara el 9% de comision</span>
 								</div>
 								<div class="form-check">
 								  <input class="form-check-input" type="radio" name="t_pago" id="t_pago3" value="Stripe" style="width: 12px;height: 12px">
 								  <label class="form-check-label" for="t_pago3">
 								    Pago seguro con Stripe
 								  </label>
+								  <br>
+								  <span id="spanStripe" style="display: none; position: absolute; top: 17px; color:red; font-size: 13px; font-weight: 600;" >se cobrara el 9% de comision</span>
 								</div>
 						<?php 
 							echo '<input type="hidden" name="ubi1" value="'.$destino_1.'"/>
@@ -320,7 +324,7 @@ $sql = "SELECT * FROM rutas AS rut
 							
 							<dl class="total">
 								<dt>Total</dt>
-								<dd><?php echo $_SESSION['total_and_extras']; ?></dd>
+								<dd><?php echo $_SESSION['total_and_extras']." USD"; ?></dd>
 							</dl>
 						</div>
 					</div>
@@ -347,16 +351,39 @@ $sql = "SELECT * FROM rutas AS rut
 	<!-- //Preloader -->
 
     <!-- jQuery -->
-	    <script src="js/jquery.min.js"></script>
-		<script src="js/jquery.uniform.min.js"></script>
-		<script src="js/jquery.slicknav.min.js"></script>
+	    <script src="../js/jquery.min.js"></script>
+		<script src="../js/jquery.uniform.min.js"></script>
+		<script src="../js/jquery.slicknav.min.js"></script>
 		<script type="text/javascript">
+
+
 			window.onload = function () {
 			$('.main-nav').slicknav({
 				prependTo:'.header .wrap',
 				label:''
 			});
       	}
+
+		  $(function() {
+				$("input[name='t_pago']").click(function() {
+					if ($("#t_pago2").is(":checked")) {
+					$("#spanPaypal").show();
+					} else {
+					$("#spanPaypal").hide();
+					}
+				});
+				});
+
+				$(function() {
+				$("input[name='t_pago']").click(function() {
+					if ($("#t_pago3").is(":checked")) {
+					$("#spanStripe").show();
+					} else {
+					$("#spanStripe").hide();
+					}
+				});
+				});
+
 		</script>
 		  <a href="https://api.whatsapp.com/send?phone=+529982930168" class="btn-wsp" target="_blank">
 		<i class="fa fa-whatsapp icono"></i>

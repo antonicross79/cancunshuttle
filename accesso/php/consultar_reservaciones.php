@@ -357,8 +357,18 @@ if ($opcion == 11) {
                 <!-- /.col -->
                 <?php    
                 }//end if
-                $sumExtras = $rowSumExtras['suma']?$rowSumExtras['suma']:0;
-                $totalWithExtras = $rowSumExtras['suma']+$row['total'];
+
+                $Extra= number_format( $rowSumExtras['suma'],2);
+                $SubTotal = number_format($row['total'],2);
+
+                if( $row['Total_comision'] === NULL){
+                        $totalWithExtras = number_format(($SubTotal + $Extra),2);
+                      }
+                      else{
+                        $totalWithExtras =  number_format($row['Total_comision'],2);
+                      }
+
+                
                 Echo '<div class="col-6">
                   <p class="lead"></p>
 
@@ -366,15 +376,15 @@ if ($opcion == 11) {
                     <table class="table">
                       <tr>
                         <th style="width:50%">Subtotal:</th>
-                        <td>'.$row['total'].',00 USD</td>
+                        <td>'.$SubTotal.' USD</td>
                       </tr>
                       <tr>
                         <th style="width:50%">Extras:</th>
-                        <td>'.$sumExtras.',00 USD</td>
+                        <td>'.$Extra.' USD</td>
                       </tr>
                       <tr>
                         <th>Total:</th>
-                        <td>'.$totalWithExtras.',00 USD</td>
+                        <td>'.$totalWithExtras.' USD</td>
                       </tr>
                     </table>
                   </div>

@@ -10,7 +10,7 @@ $fecha = $_POST['dep-date'];
 $fecha_r = $_POST['ret-date'];
 $nombre_transporte = $_POST['n_transporte'];
 $precio= $_POST['precio'];
-$_SESSION['total_and_extras'] = $_POST['total_and_extras'];
+$_SESSION['total_and_extras'] = number_format($_POST['total_and_extras'],2,',','');
 $jj = 0;
 $total_extras= 0;
 $todos_los_precios = array();
@@ -511,13 +511,12 @@ $sql = "SELECT * FROM rutas AS rut
 							</div>
 
 
-							
-							
-							
 							<dl class="total">
 								<dt>Total</dt>
-								<dd><?php echo $_SESSION['total_and_extras']; ?></dd>
+								<dd><?php echo $_SESSION['total_and_extras']." USD";?></dd>
 							</dl>
+
+
 						</div>
 					</div>
 					<!-- //Widget -->

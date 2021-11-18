@@ -197,7 +197,8 @@ $respuesta6= mysqli_query($conexion,$sql);
     
     $email_destinatario = $row['email_p'];
     $nombre_destinatario = $row['nombre_p'];
-    $suma_total = intval($row['total'])+intval($row2['suma']);
+    $suma_total = number_format($row['Total_comision'],2,',','');
+  
     $aerolineaArray = explode(',', $row['aerolinea']);
     switch ($row['modo_viaje']) {
         case 1:
@@ -294,7 +295,7 @@ $respuesta6= mysqli_query($conexion,$sql);
 
         <div class="">
         <span>Your confirmation code is: <b>CT0000000'.$id_reservacion.'</b></span>
-        <span style="float: right;">TOTAL: <b>'.$suma_total.',00 USD</b></span>
+        <span style="float: right;">TOTAL + comision 9%: <b>'.$suma_total.' USD</b></span>
         </div>
         <table class="s-4 w-100" border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
           <tbody>
@@ -586,7 +587,7 @@ Below you will find important information regarding the transportation services 
 
         <div class="">
         <span>Your confirmation code is: <b>CT0000000'.$id_reservacion.'</b></span>
-        <span style="float: right;">TOTAL: <b>'.$suma_total.',00 USD</b></span>
+        <span style="float: right;">TOTAL + commision 9%: <b>'.$suma_total.' USD</b></span>
         </div>
         <table class="s-4 w-100" border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
           <tbody>

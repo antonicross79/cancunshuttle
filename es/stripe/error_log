@@ -12,3 +12,48 @@
 [30-Jul-2021 21:35:51 UTC] PHP Notice:  Undefined variable: contenido_correo in /home/canczdhg/public_html/es/stripe/charge.php on line 100
 [03-Aug-2021 03:29:27 UTC] PHP Warning:  require_once(../../accesso/db/conexion.php): failed to open stream: No such file or directory in /home/canczdhg/public_html/es/stripe/charge.php on line 3
 [03-Aug-2021 03:29:27 UTC] PHP Fatal error:  require_once(): Failed opening required '../../accesso/db/conexion.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/canczdhg/public_html/es/stripe/charge.php on line 3
+[27-Oct-2021 04:13:18 UTC] PHP Notice:  Undefined variable: transfer_type in /home/canczdhg/public_html/es/stripe/charge.php on line 67
+[27-Oct-2021 04:13:18 UTC] PHP Notice:  Undefined variable: LOG_STRING in /home/canczdhg/public_html/es/stripe/charge.php on line 97
+[27-Oct-2021 04:13:18 UTC] PHP Notice:  Undefined variable: contenido_correo in /home/canczdhg/public_html/es/stripe/charge.php on line 100
+[27-Oct-2021 04:31:00 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_cpfmAiApGH7ITy) You cannot use a Stripe token more than once: tok_1Jp3VmAZoK3bBY7eabwuXoCA.
+  thrown in /home/canczdhg/public_html/es/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[27-Oct-2021 04:32:01 UTC] PHP Notice:  Undefined variable: transfer_type in /home/canczdhg/public_html/es/stripe/charge.php on line 67
+[27-Oct-2021 04:32:01 UTC] PHP Notice:  Undefined variable: LOG_STRING in /home/canczdhg/public_html/es/stripe/charge.php on line 97
+[27-Oct-2021 04:32:01 UTC] PHP Notice:  Undefined variable: contenido_correo in /home/canczdhg/public_html/es/stripe/charge.php on line 100
+[27-Oct-2021 04:40:15 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_WvxlmUk5ZtQFM0) You cannot use a Stripe token more than once: tok_1Jp3nrAZoK3bBY7e5pNaAEgj.
+  thrown in /home/canczdhg/public_html/es/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[27-Oct-2021 04:40:26 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_knuSN3cIiidMDF) You cannot use a Stripe token more than once: tok_1Jp3nrAZoK3bBY7e5pNaAEgj.
+  thrown in /home/canczdhg/public_html/es/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[27-Oct-2021 04:45:20 UTC] PHP Notice:  Undefined variable: transfer_type in /home/canczdhg/public_html/es/stripe/charge.php on line 67
+[27-Oct-2021 04:45:20 UTC] PHP Notice:  Undefined variable: LOG_STRING in /home/canczdhg/public_html/es/stripe/charge.php on line 97
+[27-Oct-2021 04:45:20 UTC] PHP Notice:  Undefined variable: contenido_correo in /home/canczdhg/public_html/es/stripe/charge.php on line 100
+[27-Oct-2021 04:54:13 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_ljJtzqjWw4MGx9) You cannot use a Stripe token more than once: tok_1Jp40kAZoK3bBY7e1CwKo8o9.
+  thrown in /home/canczdhg/public_html/es/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[27-Oct-2021 04:54:50 UTC] PHP Notice:  Undefined variable: transfer_type in /home/canczdhg/public_html/es/stripe/charge.php on line 67
+[27-Oct-2021 04:54:50 UTC] PHP Notice:  Undefined variable: LOG_STRING in /home/canczdhg/public_html/es/stripe/charge.php on line 97
+[27-Oct-2021 04:54:50 UTC] PHP Notice:  Undefined variable: contenido_correo in /home/canczdhg/public_html/es/stripe/charge.php on line 100
+[27-Oct-2021 04:58:04 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_t6aCmgLjoIoI9G) You cannot use a Stripe token more than once: tok_1Jp49yAZoK3bBY7em57V0WqQ.
+  thrown in /home/canczdhg/public_html/es/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[27-Oct-2021 04:58:37 UTC] PHP Notice:  Undefined variable: transfer_type in /home/canczdhg/public_html/es/stripe/charge.php on line 67
+[27-Oct-2021 04:58:37 UTC] PHP Notice:  Undefined variable: LOG_STRING in /home/canczdhg/public_html/es/stripe/charge.php on line 97
+[27-Oct-2021 04:58:37 UTC] PHP Notice:  Undefined variable: contenido_correo in /home/canczdhg/public_html/es/stripe/charge.php on line 100
+[27-Oct-2021 04:59:11 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_XRu7ki1VJT3G0X) You cannot use a Stripe token more than once: tok_1Jp4DcAZoK3bBY7eCwgZA9iU.
+  thrown in /home/canczdhg/public_html/es/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[27-Oct-2021 04:59:41 UTC] PHP Notice:  Undefined variable: transfer_type in /home/canczdhg/public_html/es/stripe/charge.php on line 67
+[27-Oct-2021 04:59:41 UTC] PHP Notice:  Undefined variable: LOG_STRING in /home/canczdhg/public_html/es/stripe/charge.php on line 97
+[27-Oct-2021 04:59:41 UTC] PHP Notice:  Undefined variable: contenido_correo in /home/canczdhg/public_html/es/stripe/charge.php on line 100
+[27-Oct-2021 05:04:51 UTC] PHP Notice:  Undefined variable: transfer_type in /home/canczdhg/public_html/es/stripe/charge.php on line 67
+[27-Oct-2021 05:04:51 UTC] PHP Notice:  Undefined variable: LOG_STRING in /home/canczdhg/public_html/es/stripe/charge.php on line 97
+[27-Oct-2021 05:04:51 UTC] PHP Notice:  Undefined variable: contenido_correo in /home/canczdhg/public_html/es/stripe/charge.php on line 100
+[27-Oct-2021 19:39:14 UTC] PHP Notice:  Undefined variable: transfer_type in /home/canczdhg/public_html/es/stripe/charge.php on line 67
+[27-Oct-2021 19:39:14 UTC] PHP Notice:  Undefined variable: LOG_STRING in /home/canczdhg/public_html/es/stripe/charge.php on line 97
+[27-Oct-2021 19:39:14 UTC] PHP Notice:  Undefined variable: contenido_correo in /home/canczdhg/public_html/es/stripe/charge.php on line 100
+[27-Oct-2021 19:49:32 UTC] PHP Notice:  Undefined variable: transfer_type in /home/canczdhg/public_html/es/stripe/charge.php on line 67
+[27-Oct-2021 19:49:32 UTC] PHP Notice:  Undefined variable: LOG_STRING in /home/canczdhg/public_html/es/stripe/charge.php on line 97
+[27-Oct-2021 19:49:32 UTC] PHP Notice:  Undefined variable: contenido_correo in /home/canczdhg/public_html/es/stripe/charge.php on line 100
+[27-Oct-2021 20:04:44 UTC] PHP Notice:  Undefined variable: transfer_type in /home/canczdhg/public_html/es/stripe/charge.php on line 67
+[27-Oct-2021 20:04:44 UTC] PHP Notice:  Undefined variable: LOG_STRING in /home/canczdhg/public_html/es/stripe/charge.php on line 97
+[27-Oct-2021 20:04:44 UTC] PHP Notice:  Undefined variable: contenido_correo in /home/canczdhg/public_html/es/stripe/charge.php on line 100
+[27-Oct-2021 20:23:52 UTC] PHP Notice:  Undefined variable: transfer_type in /home/canczdhg/public_html/es/stripe/charge.php on line 67
+[27-Oct-2021 20:23:52 UTC] PHP Notice:  Undefined variable: LOG_STRING in /home/canczdhg/public_html/es/stripe/charge.php on line 97
+[27-Oct-2021 20:23:52 UTC] PHP Notice:  Undefined variable: contenido_correo in /home/canczdhg/public_html/es/stripe/charge.php on line 100

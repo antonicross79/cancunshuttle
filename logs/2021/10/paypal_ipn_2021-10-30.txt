@@ -1,0 +1,42 @@
+paypal_ipn_status = VERIFICATION FAILED
+paypal_ipn_date = 2021-10-30 09:25:07 PDT
+
+paypal_ipn_status = VERIFICATION FAILED
+paypal_ipn_date = 2021-10-30 15:52:56 PDT
+mc_gross = 40.00
+protection_eligibility = Eligible
+address_status = unconfirmed
+payer_id = 56HRUELZSSZYQ
+address_street = ciruelos 15
+queretaro
+payment_date = 15:52:48 Oct 30, 2021 PDT
+payment_status = Completed
+charset = windows-1252
+address_zip = 76160
+first_name = elias
+mc_fee = 2.46
+address_country_code = MX
+address_name = Bytedex.com
+notify_version = 3.9
+payer_status = verified
+business = bronstein.abraham@gmail.com
+address_country = Mexico
+address_city = Queretaro
+verify_sign = AVVkFx69UR1adMn0.R6W2SbT-NplAkoQFN.jpGKvYZTl12dgFN5Zh25y
+payer_email = antonicross@gmail.com
+memo = pago honorario trabajo codificación aumento del 9% para pagos por stripe y paypal en taxi y cancunshuttle
+txn_id = 450477766A6783024
+payment_type = instant
+payer_business_name = Bytedex.com
+last_name = cruz
+address_state = Querétaro
+receiver_email = bronstein.abraham@gmail.com
+payment_fee = 2.46
+receiver_id = 4LLQ2T2XL7QQ6
+txn_type = send_money
+mc_currency = USD
+residence_country = MX
+transaction_subject = 
+payment_gross = 40.00
+ipn_track_id = f340688f91b32
+

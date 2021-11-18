@@ -83,7 +83,10 @@ if ($tipo_de_pago == 'PAYPAL' ) {
         $product_name = 'Ticket de Transporte : '.$destino_1.'/'.$destino_2;//Nombre del producto
     };
 	
-	$product_price = $precio+$suma_precio;//Precio del producto
+	$product_porc = $precio + ($precio * 0.09);
+    $extra_porc = $suma_precio + ($suma_precio * 0.09);
+    $product_price = $product_porc + $extra_porc;//Precio del product
+
 	$product_currency = $row4['tipo_moneda'];//Moneda del producto 
 	//URL Paypal Modo pruebas.
 	$paypal_url = $row4['url_paypal'];
@@ -95,7 +98,9 @@ if ($tipo_de_pago == 'PAYPAL' ) {
 	$cancel_return = "https://cancunshuttleairport.com/es/booking-step2.php";
 	//Colocal la URL donde se redicciona cuando el pago fue completado con exito.
 	$success_return = "https://cancunshuttleairport.com/es/booking-step3.php";
-
+  
+	$sql = "UPDATE reservaciones SET Total_comision='".$product_price."' WHERE id_reservacion='".$_SESSION['id_reservacion']."'";
+	$respuesta = mysqli_query($conexion,$sql);
 
 ?>
 	<div style="margin-left: 40%"><img src="../img/processing_animation.gif"/>
@@ -136,8 +141,13 @@ else if ($tipo_de_pago == 'Stripe' ) {
         $product_name = 'Ticket de Transporte : '.$destino_1.'/'.$destino_2;//Nombre del producto
     };
 	
-	$product_price = $precio+$suma_precio;//Precio del producto
+	$product_porc = $precio + ($precio * 0.09);
+    $extra_porc = $suma_precio + ($suma_precio * 0.09);
+	$product_price = $product_porc + $extra_porc ;//Precio del producto
 	$_SESSION['product_price'] = $product_price;
+	$sql = "UPDATE reservaciones SET Total_comision='".$product_price."' WHERE id_reservacion='".$_SESSION['id_reservacion']."'";
+     $respuesta = mysqli_query($conexion,$sql);
+
 	$product_price = $product_price*100;
 	$_SESSION['product_name'] = $product_name;
 
@@ -361,7 +371,7 @@ else if ($tipo_de_pago == 'Stripe' ) {
 							
 							<dl class="total">
 								<dt>Total</dt>
-								<dd><?php echo $_SESSION['total_and_extras']; ?></dd>
+								<dd><?php echo $_SESSION['total_and_extras']. " USD"; ?></dd>
 							</dl>
 						</div>
 					</div>
@@ -488,7 +498,7 @@ elseif ($tipo_de_pago == 'DIRECTO') {
 		            <tr>
 		              <td style="border-spacing: 0px; border-collapse: collapse; line-height: 24px; font-size: 16px; margin: 0;" align="left">
 		                
-		      <div style="background-color: #33a5ff;">';
+		       <div style="background-color: #33a5ff;">';
       $contenido_correo.='<img src="https://cancunshuttleairport.com/images/logocancuntransportation.jpg" width="150" height="60" style="height: auto; line-height: 100%; outline: none; text-decoration: none; border: 0 none;">
 		<h2 style="float: right; padding-top: 20px; padding-right: 10px; color: #fff; margin-top: 0; margin-bottom: 0; font-weight: 500; vertical-align: baseline; font-size: 22px; line-height: 38.4px;" align="left">
 		Hola, '.$nombre_persona.'!

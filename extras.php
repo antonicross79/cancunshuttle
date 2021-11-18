@@ -9,8 +9,7 @@ $tipo_traslado = $_POST['modo'];
 $fecha = $_POST['dep-date'];
 $fecha_r = $_POST['ret-date'];
 $nombre_transporte = $_POST['n_transporte'];
-$precio= $_POST['precio'];
-
+$precio= number_format($_POST['precio'],2,',','');
 $user_agent = $_SERVER['HTTP_USER_AGENT'];
 $is_firefox = false;
 if(stripos($user_agent,'Firefox') !== false){
@@ -137,6 +136,7 @@ if(stripos($user_agent,'Firefox') !== false){
 			    border-radius: 10px 10px 10px 10px;
 			}
 
+
 			@media screen and (max-width: 980px){
 				#accordion{
 					width: 100% !important;	
@@ -202,7 +202,7 @@ if(stripos($user_agent,'Firefox') !== false){
                                 	<img src="<?php echo $ruta_imagen; ?>" class="item-img">
                                 	<span><?php echo $row['n_extra'] ?></span>
                                 	<span><?php echo $row['descri_extra'] ?></span>
-                                	<span><?php echo $row['precio'] ?>,00 USD</span>
+                                	<span><?php echo $row['precio'] ?> USD</span>
                                 	<button onclick="return addRemovePrice(this,0)">-</button><b>0</b><button onclick="return addRemovePrice(this,1)">+</button>
                                 	<input type="hidden" name="precios[]" value="<?php echo $row['precio']; ?>">
                                 	<input type="hidden" name="cant_ida[]" value="0">
@@ -252,7 +252,7 @@ if(stripos($user_agent,'Firefox') !== false){
 	                                	<img src="<?php echo $ruta_imagen; ?>" class="item-img">
 	                                	<span><?php echo $row['n_extra'] ?></span>
 	                                	<span><?php echo $row['descri_extra'] ?></span>
-	                                	<span><?php echo $row['precio'] ?>,00 USD</span>
+	                                	<span><?php echo $row['precio'] ?> USD</span>
 	                                	<button onclick="return addRemovePrice(this,0)">-</button><b>0</b><button onclick="return addRemovePrice(this,1)">+</button>
 	                                	<input type="hidden" name="precios[]" value="<?php echo $row['precio']; ?>">
 	                                	<input type="hidden" name="cant_return[]" value="0">
@@ -276,7 +276,7 @@ if(stripos($user_agent,'Firefox') !== false){
 										<input type="hidden" name="n_transporte" value="'.$nombre_transporte.'"/>
 										<input type="hidden" name="pickup_hour_arrival" value="'.$_POST['pickup_hour_arrival'].'"/>
 										<input type="hidden" name="pickup_hour_departure" value="'.$_POST['pickup_hour_departure'].'"/>
-										<input type="hidden" name="total_and_extras" value="'.$precio.' USD" id="total_and_extras"/>
+										<input type="hidden" name="total_and_extras" value="'.number_format($precio,2,',','').' USD" id="total_and_extras"/>
 										';
                             echo $output;
                             if($tipo_traslado == 1){
@@ -399,14 +399,10 @@ if(stripos($user_agent,'Firefox') !== false){
 
 							?>
 							</div>
-
-
-							
-							
-							
+						
 							<dl class="total">
 								<dt>Total</dt>
-								<dd><?php echo $precio; ?>,00 usd</dd>
+								<dd><?php echo $precio; ?> USD</dd>
 							</dl>
 						</div>
 					</div>
@@ -475,9 +471,11 @@ if(stripos($user_agent,'Firefox') !== false){
 					sum += parseFloat($('input:hidden')[i].value) * parseInt($('input:hidden')[i+1].value);
 				}
 			}
+			
 			actualPrice += sum;
-			$('.total dd')[0].innerText = actualPrice+" USD";
-			$('#total_and_extras').val(actualPrice+" USD");
+			actualPrice.toFixed(2);
+			$('.total dd')[0].innerText = actualPrice.toFixed(2) +" USD";
+			$('#total_and_extras').val(actualPrice.toFixed(2)+" USD");
 			return false;
 		}
 
