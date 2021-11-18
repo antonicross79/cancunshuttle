@@ -57,3 +57,9 @@
 [27-Oct-2021 20:23:52 UTC] PHP Notice:  Undefined variable: transfer_type in /home/canczdhg/public_html/es/stripe/charge.php on line 67
 [27-Oct-2021 20:23:52 UTC] PHP Notice:  Undefined variable: LOG_STRING in /home/canczdhg/public_html/es/stripe/charge.php on line 97
 [27-Oct-2021 20:23:52 UTC] PHP Notice:  Undefined variable: contenido_correo in /home/canczdhg/public_html/es/stripe/charge.php on line 100
+[07-Nov-2021 00:11:23 UTC] PHP Notice:  Undefined index: stripeToken in /home/canczdhg/public_html/es/stripe/charge.php on line 7
+[07-Nov-2021 00:11:23 UTC] PHP Notice:  Undefined index: stripeEmail in /home/canczdhg/public_html/es/stripe/charge.php on line 8
+[07-Nov-2021 00:11:23 UTC] PHP Notice:  Undefined index: product_price in /home/canczdhg/public_html/es/stripe/charge.php on line 9
+[07-Nov-2021 00:11:23 UTC] PHP Notice:  Undefined index: product_name in /home/canczdhg/public_html/es/stripe/charge.php on line 10
+[07-Nov-2021 00:11:24 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_ZFPUEYizqYjv5Z) Cannot charge a customer that has no active card
+  thrown in /home/canczdhg/public_html/es/stripe/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38

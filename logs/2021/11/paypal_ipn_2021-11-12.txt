@@ -1,0 +1,26 @@
+paypal_ipn_status = VERIFICATION FAILED
+paypal_ipn_date = 2021-11-12 16:05:54 PST
+transaction_subject = 
+txn_type = send_money
+payment_date = 16:05:47 Nov 12, 2021 PST
+last_name = Santiago
+residence_country = US
+payment_gross = 357.00
+mc_currency = USD
+business = bronstein.abraham@gmail.com
+payment_type = instant
+protection_eligibility = Ineligible
+verify_sign = AHK-yER77cQsqUl3h797.iiZR10lAsMqK0h5UJLkJh56.SGZBEFOZ-TV
+payer_status = unverified
+payer_email = 123borii4life@gmail.com
+txn_id = 0D7463770N2760723
+receiver_email = bronstein.abraham@gmail.com
+first_name = John
+payer_id = U75L56V4BXPLL
+receiver_id = 4LLQ2T2XL7QQ6
+payment_status = Completed
+mc_gross = 357.00
+charset = windows-1252
+notify_version = 3.9
+ipn_track_id = f3620700f4681
+

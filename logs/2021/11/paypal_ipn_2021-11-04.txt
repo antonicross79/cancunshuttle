@@ -1,0 +1,27 @@
+paypal_ipn_status = VERIFICATION FAILED
+paypal_ipn_date = 2021-11-04 13:29:07 PDT
+transaction_subject = 
+txn_type = send_money
+payment_date = 13:28:56 Nov 04, 2021 PDT
+last_name = Santiago
+residence_country = US
+payment_gross = 200.00
+mc_currency = USD
+business = bronstein.abraham@gmail.com
+payment_type = instant
+protection_eligibility = Ineligible
+verify_sign = A.dpkNhTyf1Zhw1zVCCQFjGpyC5dAg41u6EZTfADpzHMGWZTMkwp29OW
+payer_status = unverified
+payer_email = 123borii4life@gmail.com
+txn_id = 59X82923RC458702A
+receiver_email = bronstein.abraham@gmail.com
+first_name = John
+payer_id = U75L56V4BXPLL
+receiver_id = 4LLQ2T2XL7QQ6
+memo = Asist 3D team
+payment_status = Completed
+mc_gross = 200.00
+charset = windows-1252
+notify_version = 3.9
+ipn_track_id = f206033cf1a89
+

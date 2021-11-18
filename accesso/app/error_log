@@ -123,3 +123,9 @@
 [30-Oct-2021 17:13:38 UTC] PHP Notice:  Undefined index: usuario_p in /home/canczdhg/public_html/accesso/app/traslados2.php on line 84
 [30-Oct-2021 17:13:38 UTC] PHP Notice:  Undefined index: permisos in /home/canczdhg/public_html/accesso/app/traslados2.php on line 103
 [30-Oct-2021 17:13:38 UTC] PHP Notice:  Undefined index: permisos in /home/canczdhg/public_html/accesso/app/traslados2.php on line 121
+[04-Nov-2021 21:41:08 UTC] PHP Notice:  Undefined index: usuario_p in /home/canczdhg/public_html/accesso/app/menu.php on line 83
+[04-Nov-2021 21:41:08 UTC] PHP Notice:  Undefined index: permisos in /home/canczdhg/public_html/accesso/app/menu.php on line 103
+[04-Nov-2021 21:41:08 UTC] PHP Notice:  Undefined index: permisos in /home/canczdhg/public_html/accesso/app/menu.php on line 122
+[04-Nov-2021 21:44:57 UTC] PHP Notice:  Undefined index: usuario_p in /home/canczdhg/public_html/accesso/app/menu.php on line 83
+[04-Nov-2021 21:44:57 UTC] PHP Notice:  Undefined index: permisos in /home/canczdhg/public_html/accesso/app/menu.php on line 103
+[04-Nov-2021 21:44:57 UTC] PHP Notice:  Undefined index: permisos in /home/canczdhg/public_html/accesso/app/menu.php on line 122
